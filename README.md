@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Emirhan! 👋
 
 I am a **2nd-year Software Engineering student** based in **Turkey**. I am passionate about technology and creative arts, blending code with visual storytelling.
@@ -25,6 +27,29 @@ My primary goal is to become a professional **Game Developer**. I love creating 
 
 ### 📚 Currently Learning
 I am actively expanding my skill set in game development and high-end video post-production:
+
+* **Game Engines:** Unity & Unreal Engine
+* **Video Editing:** Adobe Premiere Pro
+
+---
+
+### 📂 Projects
+
+You can browse all my repositories and coding exercises by clicking the link below:
+
+<a href="https://github.com/EmirhanKiren?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+</a>
+
+---
+
+### 📱 Connect with me
+
+<a href="mailto:67kiren67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 * **Game Engines:** Unity & Unreal Engine
 * **Video Editing:** Adobe Premiere Pro
