@@ -99,25 +99,3 @@ You can browse all my repositories and coding exercises by clicking the link bel
 </a>
 
 </div>
-
-* **Game Engines:** Unity & Unreal Engine
-* **Video Editing:** Adobe Premiere Pro
-
----
-
-<div align="center">
-  <h3>📂 Projects</h3>
-  <p>
-    You can browse all my repositories and coding exercises by clicking the link below:
-  </p>
-  <a href="https://github.com/EmirhanKiren?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
-  </a>
-</div>
-
----
-
-### 📱 Connect with me
-<a href="mailto:67kiren67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
